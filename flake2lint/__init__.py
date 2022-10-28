@@ -54,6 +54,7 @@ code_mapping = {
 		"A001": "redefined-builtin",
 		"A002": "redefined-builtin",
 		"A003": "redefined-builtin",
+		"C901": "too-many-branches"
 		}
 
 PYLINT_INLINE_REGEXP = re.compile(
